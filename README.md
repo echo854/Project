@@ -49,5 +49,3 @@ calculate_bmi(weight_kg=70, height_m=1.75)
 # Example 2: A person weighing 95 kg and 1.80 meters tall
 print("Example 2:")
 calculate_bmi(weight_kg=95, height_m=1.80)
-
-aHR0cHM6Ly9naXN0LmdpdGh1Yi5jb20vZWNobzg1NC9jMTgyYTJjOTc1ODIyNmJkNGY5ZDk1YTU5YmQ4ZDM0OA==
