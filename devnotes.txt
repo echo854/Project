@@ -1,0 +1,23 @@
+=========================
+Developer Notes
+=========================
+
+TO DO:
+- Remove this before publishing.
+- Upload assignment to Job-completed.
+
+Archive password still follows the naming convention.
+  
+Current: FYP_NYP_2026
+
+Formatting Rules:
+- Remove all underscores.
+- Preserve capitalisation.
+- Append one exclamation mark.
+
+Example:
+I_Love_NYP
+↓
+ILoveNYP!
+
+Need to clean this up before pushing hehe.
